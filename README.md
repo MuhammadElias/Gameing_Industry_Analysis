@@ -15,4 +15,17 @@ This project analyzes the gaming industry over the years, including new game rel
 
 ## Conclusion
 
-This analysis highlights the significant changes the gaming industry has experienced in recent years. Developers and publishers need to stay up-to-date with the latest technologies and platform trends to remain relevant in the market. The success of a game is influenced by factors such as user and critic scores, genre, and platform, which game developers and publishers should consider when designing and marketing their games to optimize sales and user satisfaction.
+In conclusion, the gaming industry has experienced significant changes in the past two decades, with a gradual increase in the number of new games being released since the year 2000 and a skyrocketed release rate between 2007 and 2010. The average lifespan of a platform is relatively short, around 7.6 years only, therefore, developers and publishers need to stay up-to-date with the latest technologies and platform trends to remain relevant in the market. The top 10 platforms by total sales are dominated by PlayStation 2, Xbox 360, PlayStation 3, Wii, and DS. The sales performance of games can vary widely, with some games experiencing steep declines while others experience a gradual decrease in sales. The success of a game also depends on users and critic scores, as higher user scores are generally associated with higher total sales, while higher critic scores are generally associated with lower total sales. In terms of genre, Action and Sports games have the highest total sales and market share, with shooter and platform games demonstrating higher average sales over the long period.
+The hypothesis test found insufficient evidence to suggest a significant difference in user scores between Xbox One and PC platforms, meaning that users rate games similarly on these two platforms. On the other hand, the conclusion also states that there is a significant difference between how users rate Action and Sports game genres, with Action games having higher overall user ratings. This information can be useful for game publishers and developers to tailor their marketing strategies and make informed decisions when developing new games in each genre. However, personal preference can still impact the perceived quality of different game genres.
+
+
+
+## libraries used 
+
+- pandas
+- scipy.stats
+- numpy 
+- random
+- math
+- matplotlib
+- seaborn
